@@ -9,7 +9,9 @@ arch=('x86_64')
 url="http://twinery.org/"
 license=('GPL3')
 depends=('libxss'
-	 'gconf')
+	 'gconf'
+	 'nss'
+	 'gtk3')
 source=("https://bitbucket.org/klembot/twinejs/downloads/twine_${pkgver}_linux64.zip"
         "http://twinery.org/homepage/img/logo.svg"
         "twinejs.desktop")
