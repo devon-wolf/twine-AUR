@@ -1,7 +1,10 @@
 # twine-AUR
 A repo for the Twine package in the Arch User Repository
+
 Link to AUR page: https://aur.archlinux.org/packages/twinejs-standalone
+
 Link to Twine project: http://twinery.org
+
 Link to Twine on GitHub: https://github.com/klembot/twinejs
 
 I've taken over maintenance of the Twine package on the AUR and will track changes and versions here.
