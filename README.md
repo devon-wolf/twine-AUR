@@ -7,6 +7,6 @@ Link to Twine project: http://twinery.org
 
 Link to Twine on GitHub: https://github.com/klembot/twinejs
 
-I've taken over maintenance of the Twine package on the AUR and will track changes and versions here.
+I had taken over maintenance of the Twine package on the AUR, but will disown it as of this update due to limited reliable access to a machine running Arch. Hopefully I'll come back to it in the near-ish future! But for now, this is what I've got.
 
-The current title of the AUR package is "twinejs-standalone." Please feel free to alert me to any issues, either here or as a comment on the AUR. I plan on keeping the previous maintainer's PKGBUILD as a base until there's a new Twine release.
+The current title of the AUR package is "twinejs-standalone."
